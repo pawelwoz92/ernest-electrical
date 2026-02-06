@@ -1,0 +1,7 @@
+<svg viewBox="0 0 24 24" aria-hidden="true">
+  <rect x="4" y="3" width="16" height="18" rx="2"></rect>
+  <line x1="8" y1="8" x2="16" y2="8"></line>
+  <circle cx="9" cy="13" r="1.2"></circle>
+  <circle cx="15" cy="13" r="1.2"></circle>
+  <line x1="8" y1="17" x2="16" y2="17"></line>
+</svg>
