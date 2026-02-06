@@ -411,9 +411,7 @@ section{
   
   
 }
-.service:first-child{
-  margin-top: var(--s-5);
-}
+
  
   .service_icon{
     max-width: 56px;
@@ -443,7 +441,7 @@ section{
   box-shadow: var(--shadow-sm);
   transition: box-shadow 0.3s var(--ease);
   padding: var(--s-4);
-  margin-bottom: var(--s-4);
+  
   
 }
 
@@ -794,4 +792,8 @@ html {
     height: 46px;
     width: 46px;
   }
+}
+
+.services > .secondary_text {
+  margin-bottom: var(--s-2);
 }
